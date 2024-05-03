@@ -1,0 +1,9 @@
+path: /Users/mac/Dev/python/FF/objectDetect/cardetect_dataset
+train: obj_Train_data
+val: obj_Validation_data
+
+# number of classes
+nc: 2
+
+# Classes names
+names: ['car', 'numberplate']

@@ -1,0 +1,8 @@
+# Virtual environment
+.venv/
+
+# YOLOv8 runs folder
+runs/
+
+# Ignore YOLOv8 model files
+*.pt

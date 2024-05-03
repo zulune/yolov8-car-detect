@@ -1,0 +1,5 @@
+data/obj_Validation_data/23228027.jpg
+data/obj_Validation_data/23988055.jpg
+data/obj_Validation_data/24293506.jpg
+data/obj_Validation_data/24495986.jpg
+data/obj_Validation_data/24496990.jpg
